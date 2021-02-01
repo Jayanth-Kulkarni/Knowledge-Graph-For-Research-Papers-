@@ -1,0 +1,47 @@
+\begin{tabular}{lrlrl}
+\toprule
+{} &  index &   Topic &  Paper\_num &   Names \\
+\midrule
+0  &     40 &   cs.GL &         18 &   cs.GL \\
+1  &     38 &   cs.OS &         90 &   cs.OS \\
+2  &     39 &  cmp-lg &        117 &  cmp-lg \\
+3  &     20 &   cs.AR &        239 &   cs.AR \\
+4  &     31 &   cs.SD &        269 &   cs.SD \\
+5  &     22 &   cs.GR &        345 &   cs.GR \\
+6  &     32 &   cs.DL &        349 &   cs.DL \\
+7  &     26 &   cs.PF &        356 &   cs.PF \\
+8  &     27 &   cs.ET &        392 &   cs.ET \\
+9  &      2 &   cs.HC &        449 &   cs.HC \\
+10 &     33 &   cs.MM &        492 &   cs.MM \\
+11 &     36 &   cs.MA &        533 &   cs.MA \\
+12 &     34 &   cs.MS &        537 &   cs.MS \\
+13 &     29 &   cs.CY &        541 &   cs.CY \\
+14 &     30 &   cs.OH &        598 &   cs.OH \\
+15 &     37 &   cs.RO &        600 &   cs.RO \\
+16 &     35 &   cs.CL &        926 &   cs.CL \\
+17 &     18 &   cs.SC &       1001 &   cs.SC \\
+18 &     16 &   cs.IR &       1027 &   cs.IR \\
+19 &      8 &   cs.DB &       1055 &   cs.DB \\
+20 &     21 &   cs.PL &       1169 &   cs.PL \\
+21 &     13 &   cs.SE &       1176 &   cs.SE \\
+22 &     24 &   cs.FL &       1261 &   cs.FL \\
+23 &     10 &   cs.NA &       1276 &   cs.NA \\
+24 &     28 &   cs.CE &       1299 &   cs.CE \\
+25 &     15 &   cs.NE &       1397 &   cs.NE \\
+26 &     17 &   cs.CG &       1640 &   cs.CG \\
+27 &     23 &   cs.CC &       2044 &   cs.CC \\
+28 &     11 &   cs.GT &       2255 &   cs.GT \\
+29 &      6 &   cs.SI &       2512 &   cs.SI \\
+30 &      5 &   cs.SY &       2642 &   cs.SY \\
+31 &     19 &   cs.DC &       3322 &   cs.DC \\
+32 &      7 &   cs.LO &       3378 &   cs.LO \\
+33 &     25 &   cs.CR &       3582 &   cs.CR \\
+34 &      0 &   cs.AI &       3983 &   cs.AI \\
+35 &      9 &   cs.DM &       4417 &   cs.DM \\
+36 &      4 &   cs.LG &       4829 &   cs.LG \\
+37 &     12 &   cs.NI &       4935 &   cs.NI \\
+38 &      3 &   cs.DS &       5029 &   cs.DS \\
+39 &     14 &   cs.CV &       6358 &   cs.CV \\
+40 &      1 &   cs.IT &      29609 &   cs.IT \\
+\bottomrule
+\end{tabular}
